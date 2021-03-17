@@ -10,7 +10,7 @@ public class EarthlyToLunarWeigh {
       earthlyWeight = 66.5;
       
       lunarWeight = earthlyWeight * 0.17;
-   
+      
       System.out.println("Земной вес - " + earthlyWeight + "кг,");
       System.out.println("а лунный - " + lunarWeight + "кг;");
       System.out.println("но это не точно");

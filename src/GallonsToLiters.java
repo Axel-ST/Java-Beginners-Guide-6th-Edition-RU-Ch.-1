@@ -10,7 +10,7 @@ public class GallonsToLiters {
       
       gallons = 10;
       liters = gallons * 3.7854;
-   
+      
       System.out.println(gallons + " галлонам соответствует " + liters + " литров.");
    }
 }
